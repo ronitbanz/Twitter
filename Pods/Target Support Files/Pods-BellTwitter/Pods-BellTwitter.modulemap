@@ -1,0 +1,6 @@
+framework module Pods_BellTwitter {
+  umbrella header "Pods-BellTwitter-umbrella.h"
+
+  export *
+  module * { export * }
+}
